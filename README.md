@@ -36,6 +36,7 @@ More info [here](http://www.frida.re/).
 ## Powered by Frida
 * [Lobotomy](https://github.com/LifeForm-Labs/lobotomy) - Android Reverse Engineering Framework & Toolkit
 * [Appmon](https://github.com/dpnishant/appmon) - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
+* [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
 
 <a name="video" />
 ##Videos

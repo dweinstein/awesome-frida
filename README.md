@@ -44,6 +44,7 @@ More info [here](http://www.frida.re/).
 <a name="projects" />
 ## Projects
 - [frida-scripts](https://github.com/as0ler/frida-scripts) - Repository including some useful frida script for iOS Reversing
+- [poxyran/misc](https://github.com/poxyran/misc) - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py), [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py), [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py), 
 
 <a name="talks-and-papers" />
 ## Talks & Papers

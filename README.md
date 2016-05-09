@@ -17,6 +17,7 @@ More info [here](http://www.frida.re/).
 <!-- MarkdownTOC depth=4 -->
 - [Tutorials](#github-tutorials)
 - [Libraries](#libraries)
+- [Talks & Papers](#talks-and-papers)
 - [Powered by Frida](#github-powered-by)
 - [Videos](#video)
 - [Blog posts](#blogs)
@@ -37,6 +38,25 @@ More info [here](http://www.frida.re/).
 * [frida-uiwebview](https://github.com/nowsecure/frida-uiwebview) - Inspect and manipulate UIWebView-hosted GUIs
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
 * [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
+
+
+<a name="talks-and-papers" />
+## Talks & Papers
+* [OSDC 2015](http://act.osdc.no/osdc2015no/):
+  [Putting the open back into closed software](http://act.osdc.no/osdc2015no/talk/6165)
+  ([PDF](osdc-2015-putting-the-open-back-into-closed-software.pdf) · [Recording](https://youtu.be/tmpjftTHzH8))
+* [OSDC 2015](http://act.osdc.no/osdc2015no/):
+  [The engineering behind the reverse engineering](http://act.osdc.no/osdc2015no/talk/6195)
+  ([PDF](osdc-2015-the-engineering-behind-the-reverse-engineering.pdf) · [Recording](https://youtu.be/uc1mbN9EJKQ))
+* [NLUUG 2015](https://www.nluug.nl/activiteiten/events/nj15/index.html):
+  [Frida: Putting the open back into closed software](https://www.nluug.nl/activiteiten/events/nj15/abstracts/ab08.html)
+  ([Slides](http://slides.com/oleavr/nluug-2015-frida-putting-the-open-back-into-closed-software)
+  · [Demos](https://github.com/frida/frida-presentations/tree/master/NLUUG2015)
+  · [Recording](https://youtu.be/3lo1Y2oKkE4))
+* [ZeroNights 2015](http://2015.zeronights.org/):
+  [Cross-platform reversing with Frida](http://2015.zeronights.org/workshops.html)
+  ([PDF](zeronights-2015-cross-platform-reversing-with-frida.pdf)
+  · [Demos](https://github.com/frida/frida-presentations/tree/master/ZeroNights2015))
 
 <a name="github-powered-by" />
 ## Powered by Frida

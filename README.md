@@ -31,6 +31,12 @@ More info [here](http://www.frida.re/).
 <a name="libraries" />
 ## Libraries
 * [frida-panic](https://github.com/nowsecure/frida-panic) - Easy crash-reporting for Frida-based applications
+* [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
+* [frida-trace](https://github.com/nowsecure/frida-trace) - Trace APIs declaratively
+* [frida-screenshot](https://github.com/nowsecure/frida-screenshot) - Grab (iOS) screenshots
+* [frida-uiwebview](https://github.com/nowsecure/frida-uiwebview) - Inspect and manipulate UIWebView-hosted GUIs
+* [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
+* [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
 
 <a name="github-powered-by" />
 ## Powered by Frida
@@ -40,15 +46,19 @@ More info [here](http://www.frida.re/).
 
 <a name="video" />
 ##Videos
+* [Frida vs Spotify](https://www.youtube.com/watch?v=dvOdwHpQycw) - Spotify RE
+* [CryptoShark](https://www.youtube.com/watch?v=hzDsxtcRavY) - a self-optimizing cross-platform code tracer based on dynamic recompilation, powered by Frida and Capstone
+* [Frida Memory Hacking - Angry Birds](https://www.youtube.com/watch?v=nk3rUn2ip0g) - Frida having fun with Angry Birds running on an iPhone
+* [Frida Memory Hacking - Windows Live Messenger](https://www.youtube.com/watch?v=0Blc0T-Z-ys) - Frida having fun with Windows Live Messenger
 * [Frida Intro @ NowSecure](https://www.youtube.com/watch?v=4Ag-2LZQM8g) - Frida introduction by Ole
 * [Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.
 
 <a name="blogs" />
 ##Blog posts
-* [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
 * [Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/08/06/reverse-engineering-with-javascript/)
 * [iOS 9 Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/11/16/ios-9-reverse-engineering-with-javascript/)
 * [iOS Instrumentation without Jailbreak](https://www.nowsecure.com/blog/2015/11/23/ios-instrumentation-without-jailbreak/)
+* [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
 
 
 <a name="community" />

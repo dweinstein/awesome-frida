@@ -17,6 +17,7 @@ More info [here](http://www.frida.re/).
 <!-- MarkdownTOC depth=4 -->
 - [Tutorials](#github-tutorials)
 - [Libraries](#libraries)
+- [Projects](#projects)
 - [Talks & Papers](#talks-and-papers)
 - [Powered by Frida](#github-powered-by)
 - [Videos](#video)
@@ -39,6 +40,9 @@ More info [here](http://www.frida.re/).
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
 * [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
 
+<a name="projects" />
+## Projects
+- [frida-scripts](https://github.com/as0ler/frida-scripts) - Repository including some useful frida script for iOS Reversing
 
 <a name="talks-and-papers" />
 ## Talks & Papers

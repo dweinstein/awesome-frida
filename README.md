@@ -82,6 +82,7 @@ More info [here](http://www.frida.re/).
 
 <a name="blogs" />
 ##Blog posts
+* [Build a debugger in 5 minutes](https://medium.com/@oleavr/build-a-debugger-in-5-minutes-1-5-51dce98c3544#.mn48pvhok)
 * [Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/08/06/reverse-engineering-with-javascript/)
 * [iOS 9 Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/11/16/ios-9-reverse-engineering-with-javascript/)
 * [iOS Instrumentation without Jailbreak](https://www.nowsecure.com/blog/2015/11/23/ios-instrumentation-without-jailbreak/)

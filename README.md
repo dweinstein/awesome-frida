@@ -39,6 +39,7 @@ More info [here](http://www.frida.re/).
 * [frida-uiwebview](https://github.com/nowsecure/frida-uiwebview) - Inspect and manipulate UIWebView-hosted GUIs
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
 * [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
+* [frida-load](https://github.com/frida/frida-load) - Load a Frida script comprised of one or more Node.js modules 
 
 <a name="projects" />
 ## Projects

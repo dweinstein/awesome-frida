@@ -27,7 +27,6 @@ More info [here](http://www.frida.re/).
 
 <a name="github-tutorials" />
 ## Tutorials
-* [Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.
 
 <a name="libraries" />
 ## Libraries
@@ -41,6 +40,7 @@ More info [here](http://www.frida.re/).
 <a name="video" />
 ##Videos
 * [Frida Intro @ NowSecure](https://www.youtube.com/watch?v=4Ag-2LZQM8g) - Frida introduction by Ole
+* [Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.
 
 <a name="blogs" />
 ##Blog posts

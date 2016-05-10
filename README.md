@@ -92,9 +92,9 @@ More info [here](http://www.frida.re/).
 <a name="community" />
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/frida)
-* [@fridaotre on Twitter](https://twitter.com/fridaotre)
+* [@fridaotre on Twitter](https://twitter.com/fridadotre)
+* [@oleavr on Twitter](https://twitter.com/oleavr)
 * [Reddit](https://www.reddit.com/r/frida)
-
 
 
 <a name="contributions" />

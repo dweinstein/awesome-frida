@@ -40,6 +40,9 @@ More info [here](http://www.frida.re/).
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
 * [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
 * [frida-load](https://github.com/frida/frida-load) - Load a Frida script comprised of one or more Node.js modules 
+* [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) - Create an outbound stream over a message transport. 
+* [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
+* [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 
 <a name="projects" />
 ## Projects

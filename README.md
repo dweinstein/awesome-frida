@@ -70,6 +70,7 @@ More info [here](http://www.frida.re/).
 <a name="github-powered-by" />
 ## Powered by Frida
 * [CryptoShark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
+* [diff-gui](https://github.com/antojoseph/diff-gui) - Web GUI for instrumenting Android
 * [Lobotomy](https://github.com/LifeForm-Labs/lobotomy) - Android Reverse Engineering Framework & Toolkit
 * [Appmon](https://github.com/dpnishant/appmon) - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida

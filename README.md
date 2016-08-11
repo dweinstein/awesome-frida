@@ -74,6 +74,7 @@ More info [here](http://www.frida.re/).
 * [Lobotomy](https://github.com/LifeForm-Labs/lobotomy) - Android Reverse Engineering Framework & Toolkit
 * [Appmon](https://github.com/dpnishant/appmon) - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
+* [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
 
 <a name="video" />
 ##Videos

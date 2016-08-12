@@ -32,6 +32,7 @@ More info [here](http://www.frida.re/).
 
 <a name="libraries" />
 ## Libraries
+* [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) - Hook method calls in Android
 * [frida-panic](https://github.com/nowsecure/frida-panic) - Easy crash-reporting for Frida-based applications
 * [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
 * [frida-trace](https://github.com/nowsecure/frida-trace) - Trace APIs declaratively
@@ -47,6 +48,7 @@ More info [here](http://www.frida.re/).
 <a name="projects" />
 ## Projects
 - [frida-scripts](https://github.com/as0ler/frida-scripts) - Repository including some useful frida script for iOS Reversing
+- [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) - IDA Pro plugin
 - [poxyran/misc](https://github.com/poxyran/misc) - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py), [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py), [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py), 
 
 <a name="talks-and-papers" />
@@ -69,6 +71,8 @@ More info [here](http://www.frida.re/).
 
 <a name="github-powered-by" />
 ## Powered by Frida
+* [Aurora](https://github.com/frida/aurora) - Web app built on top of Frida
+* [CloudSpy](https://github.com/frida/cloudspy) - Web app built on top of Frida
 * [CryptoShark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 * [diff-gui](https://github.com/antojoseph/diff-gui) - Web GUI for instrumenting Android
 * ~~[Lobotomy](https://github.com/LifeForm-Labs/lobotomy)~~[Lobotomy Fork](https://github.com/AndroidSecurityTools/lobotomy) - Android Reverse Engineering Framework & Toolkit

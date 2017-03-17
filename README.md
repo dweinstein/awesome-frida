@@ -51,6 +51,7 @@ More info [here](http://www.frida.re/).
 - [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) - IDA Pro plugin
 - [poxyran/misc](https://github.com/poxyran/misc) - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py), [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py), [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py),
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.
+- [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 
 <a name="talks-and-papers" />
 ## Talks & Papers
@@ -80,9 +81,11 @@ More info [here](http://www.frida.re/).
 * [Appmon](https://github.com/dpnishant/appmon) - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
 * [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
+* [r2frida](https://github.com/nowsecure/r2frida) [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
+* Hacking Android apps with Frida [part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/) [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/)
 
 <a name="video" />
-##Videos
+## Videos
 * [Frida vs Spotify](https://www.youtube.com/watch?v=dvOdwHpQycw) - Spotify RE
 * [CryptoShark](https://www.youtube.com/watch?v=hzDsxtcRavY) - a self-optimizing cross-platform code tracer based on dynamic recompilation, powered by Frida and Capstone
 * [Frida Memory Hacking - Angry Birds](https://www.youtube.com/watch?v=nk3rUn2ip0g) - Frida having fun with Angry Birds running on an iPhone
@@ -91,7 +94,7 @@ More info [here](http://www.frida.re/).
 * ~~[Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.~~
 
 <a name="blogs" />
-##Blog posts
+## Blog posts
 * [Build a debugger in 5 minutes](https://medium.com/@oleavr/build-a-debugger-in-5-minutes-1-5-51dce98c3544#.mn48pvhok)
 * [Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/08/06/reverse-engineering-with-javascript/)
 * [iOS 9 Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/11/16/ios-9-reverse-engineering-with-javascript/)

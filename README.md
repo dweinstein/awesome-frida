@@ -66,6 +66,7 @@ More info [here](http://www.frida.re/).
   [Cross-platform reversing with Frida](http://2015.zeronights.org/workshops.html)
   ([PDF](zeronights-2015-cross-platform-reversing-with-frida.pdf)
   · [Demos](https://github.com/frida/frida-presentations/tree/master/ZeroNights2015))
+* [r2con 2016 - r2frida](http://rada.re/con/) ([PDF](https://github.com/radareorg/r2con/raw/master/2016/talks/08-r2frida/r2frida.pdf) · [Recording](https://www.youtube.com/watch?v=ivCucqeVeZI))
 
 <a name="frida-powered-by" />
 
@@ -89,6 +90,7 @@ More info [here](http://www.frida.re/).
 * [Frida Memory Hacking - Windows Live Messenger](https://www.youtube.com/watch?v=0Blc0T-Z-ys) - Frida having fun with Windows Live Messenger
 * [Frida Intro @ NowSecure](https://www.youtube.com/watch?v=4Ag-2LZQM8g) - Frida introduction by Ole
 * ~~[Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.~~
+* [Install SSL CA to device via ManagedConfiguration tracing](https://www.youtube.com/watch?v=qfOm5b9MZtk)
 
 <a name="blogs" />
 
@@ -99,7 +101,6 @@ More info [here](http://www.frida.re/).
 * [iOS Instrumentation without Jailbreak](https://www.nowsecure.com/blog/2015/11/23/ios-instrumentation-without-jailbreak/)
 * [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
 * [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), and [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/)
-
 
 
 <a name="community" />

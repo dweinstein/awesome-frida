@@ -10,27 +10,21 @@ Frida is an open source software.
 
 More info [here](http://www.frida.re/).
 
-
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Tutorials](#github-tutorials)
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Talks & Papers](#talks-and-papers)
-- [Powered by Frida](#github-powered-by)
-- [Videos](#video)
+- [Powered by Frida](#frida-powered-by)
+- [Videos](#videos)
 - [Blog posts](#blogs)
 - [Community](#community)
 
 <!-- /MarkdownTOC -->
 
-
-<a name="github-tutorials" />
-## Tutorials
-
 <a name="libraries" />
+
 ## Libraries
 * [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) - Hook method calls in Android
 * [frida-panic](https://github.com/nowsecure/frida-panic) - Easy crash-reporting for Frida-based applications
@@ -46,13 +40,16 @@ More info [here](http://www.frida.re/).
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 
 <a name="projects" />
+
 ## Projects
 - [frida-scripts](https://github.com/as0ler/frida-scripts) - Repository including some useful frida script for iOS Reversing
 - [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) - IDA Pro plugin
 - [poxyran/misc](https://github.com/poxyran/misc) - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py), [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py), [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py),
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.
+- [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 
 <a name="talks-and-papers" />
+
 ## Talks & Papers
 * [OSDC 2015](http://act.osdc.no/osdc2015no/):
   [Putting the open back into closed software](http://act.osdc.no/osdc2015no/talk/6165)
@@ -69,8 +66,10 @@ More info [here](http://www.frida.re/).
   [Cross-platform reversing with Frida](http://2015.zeronights.org/workshops.html)
   ([PDF](zeronights-2015-cross-platform-reversing-with-frida.pdf)
   · [Demos](https://github.com/frida/frida-presentations/tree/master/ZeroNights2015))
+* [r2con 2016 - r2frida](http://rada.re/con/) ([PDF](https://github.com/radareorg/r2con/raw/master/2016/talks/08-r2frida/r2frida.pdf) · [Recording](https://www.youtube.com/watch?v=ivCucqeVeZI))
 
-<a name="github-powered-by" />
+<a name="frida-powered-by" />
+
 ## Powered by Frida
 * [Aurora](https://github.com/frida/aurora) - Web app built on top of Frida
 * [CloudSpy](https://github.com/frida/cloudspy) - Web app built on top of Frida
@@ -80,26 +79,32 @@ More info [here](http://www.frida.re/).
 * [Appmon](https://github.com/dpnishant/appmon) - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
 * [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
+* [r2frida](https://github.com/nowsecure/r2frida) [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 
-<a name="video" />
-##Videos
+<a name="videos" />
+
+## Videos
 * [Frida vs Spotify](https://www.youtube.com/watch?v=dvOdwHpQycw) - Spotify RE
 * [CryptoShark](https://www.youtube.com/watch?v=hzDsxtcRavY) - a self-optimizing cross-platform code tracer based on dynamic recompilation, powered by Frida and Capstone
 * [Frida Memory Hacking - Angry Birds](https://www.youtube.com/watch?v=nk3rUn2ip0g) - Frida having fun with Angry Birds running on an iPhone
 * [Frida Memory Hacking - Windows Live Messenger](https://www.youtube.com/watch?v=0Blc0T-Z-ys) - Frida having fun with Windows Live Messenger
 * [Frida Intro @ NowSecure](https://www.youtube.com/watch?v=4Ag-2LZQM8g) - Frida introduction by Ole
 * ~~[Lobotomy - Frida Demo](https://asciinema.org/a/24269) - This demo is leveraging the Frida toolkit to instrument a target app's Activity calls.~~
+* [Install SSL CA to device via ManagedConfiguration tracing](https://www.youtube.com/watch?v=qfOm5b9MZtk)
 
 <a name="blogs" />
-##Blog posts
+
+## Blog posts
 * [Build a debugger in 5 minutes](https://medium.com/@oleavr/build-a-debugger-in-5-minutes-1-5-51dce98c3544#.mn48pvhok)
 * [Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/08/06/reverse-engineering-with-javascript/)
 * [iOS 9 Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/11/16/ios-9-reverse-engineering-with-javascript/)
 * [iOS Instrumentation without Jailbreak](https://www.nowsecure.com/blog/2015/11/23/ios-instrumentation-without-jailbreak/)
 * [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
+* [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), and [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/)
 
 
 <a name="community" />
+
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/frida)
 * [@fridaotre on Twitter](https://twitter.com/fridadotre)
@@ -108,6 +113,7 @@ More info [here](http://www.frida.re/).
 
 
 <a name="contributions" />
+
 ## Contributions
 Your contributions are always welcome!
 
@@ -122,6 +128,7 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 
 <a name="credits" />
+
 ## Credits
 
 * This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)

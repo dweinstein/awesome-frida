@@ -38,6 +38,7 @@ More info [here](http://www.frida.re/).
 * [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) - Create an outbound stream over a message transport. 
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
+* [frida-push](https://github.com/AndroidTamer/frida-push) - Automatically `adb push` the correct frida-server matching your current frida installation.
 
 <a name="projects" />
 

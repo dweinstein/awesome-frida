@@ -103,6 +103,7 @@ More info [here](http://www.frida.re/).
 * [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
 * [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), and [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/)
 * [OWASP iOS crackme tutorial: Solved with Frida](https://www.nowsecure.com/blog/2017/04/27/owasp-ios-crackme-tutorial-frida/)
+* Detecting Frida [poxyran](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/), [Bernhard Mueller](http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
 
 <a name="community" />
 

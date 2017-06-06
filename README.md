@@ -27,6 +27,7 @@ More info [here](http://www.frida.re/).
 
 ## Libraries
 * [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) - Hook method calls in Android
+* [FridaAndroidTracer](https://github.com/Piasy/FridaAndroidTracer) - A runnable jar that generate Javascript hook script to hook Android classes
 * [frida-panic](https://github.com/nowsecure/frida-panic) - Easy crash-reporting for Frida-based applications
 * [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
 * [frida-trace](https://github.com/nowsecure/frida-trace) - Trace APIs declaratively

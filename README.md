@@ -83,6 +83,9 @@ More info [here](http://www.frida.re/).
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
 * [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
 * [r2frida](https://github.com/nowsecure/r2frida) [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
+* [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
+* [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection based using output from a `netstat` cmd.
+
 
 <a name="videos" />
 

@@ -87,6 +87,7 @@ More info [here](http://www.frida.re/).
 * [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 * [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection based using output from a `netstat` cmd.
 * [brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite and Frida
+* [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration for iOS and Android
 
 
 <a name="videos" />

@@ -70,6 +70,7 @@ More info [here](http://www.frida.re/).
   ([PDF](zeronights-2015-cross-platform-reversing-with-frida.pdf)
   · [Demos](https://github.com/frida/frida-presentations/tree/master/ZeroNights2015))
 * [r2con 2016 - r2frida](http://rada.re/con/) ([PDF](https://github.com/radareorg/r2con/raw/master/2016/talks/08-r2frida/r2frida.pdf) · [Recording](https://www.youtube.com/watch?v=ivCucqeVeZI))
+* [RMLL 2017](https://2017.rmll.info/) Unlocking secrets of proprietary software (@oleavr) ([slides](https://slides.com/oleavr/frida-rmll-2017#/) · [Recording](https://rmll.ubicast.tv/videos/frida_03038/))
 
 <a name="frida-powered-by" />
 

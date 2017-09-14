@@ -52,6 +52,7 @@ More info [here](http://www.frida.re/).
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
 
 <a name="talks-and-papers" />
+- [frida-scripts](https://github.com/0xdea/frida-scripts) - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
 
 ## Talks & Papers
 * [OSDC 2015](http://act.osdc.no/osdc2015no/):

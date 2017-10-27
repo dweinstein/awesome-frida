@@ -52,8 +52,8 @@ More info [here](http://www.frida.re/).
 - [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
 
-
 <a name="talks-and-papers" />
+
 ## Talks & Papers
 * [OSDC 2015](http://act.osdc.no/osdc2015no/):
   [Putting the open back into closed software](http://act.osdc.no/osdc2015no/talk/6165)

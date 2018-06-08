@@ -46,7 +46,7 @@ More info [here](http://www.frida.re/).
 ## Projects
 - [as0ler/frida-scripts](https://github.com/as0ler/frida-scripts) - Repository including some useful frida script for iOS Reversing
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
-- [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - another useful frida snippets repository (iOS/JNI/Native)
+- [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - another useful frida snippets repository
 - [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) - IDA Pro plugin
 - [poxyran/misc](https://github.com/poxyran/misc) - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py), [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py), [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py),
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.

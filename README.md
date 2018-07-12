@@ -53,6 +53,7 @@ More info [here](http://www.frida.re/).
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.
 - [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
+- [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 
 <a name="talks-and-papers" />
 

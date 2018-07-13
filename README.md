@@ -78,7 +78,6 @@ More info [here](http://www.frida.re/).
 <a name="frida-powered-by" />
 
 ## Powered by Frida
-* [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [Aurora](https://github.com/frida/aurora) - Web app built on top of Frida
 * [CloudSpy](https://github.com/frida/cloudspy) - Web app built on top of Frida
 * [CryptoShark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
@@ -93,6 +92,7 @@ More info [here](http://www.frida.re/).
 * [brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite and Frida
 * [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration for iOS and Android
 * [passionfruit](https://github.com/chaitin/passionfruit) - iOS App Analyzer with Web UI
+* [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 
 
 <a name="videos" />

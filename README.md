@@ -92,6 +92,7 @@ More info [here](http://www.frida.re/).
 * [brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite and Frida
 * [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration for iOS and Android
 * [passionfruit](https://github.com/chaitin/passionfruit) - iOS App Analyzer with Web UI
+* [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 
 
 <a name="videos" />

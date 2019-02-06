@@ -93,7 +93,7 @@ More info [here](http://www.frida.re/).
 * [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration for iOS and Android
 * [passionfruit](https://github.com/chaitin/passionfruit) - iOS App Analyzer with Web UI
 * [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
-* [Dwarf](https://github.com/igio90/Dwarf) - Full featured PyQt5 debugger and framework for mobile crackers, security analyst and reverse engineers
+* [Dwarf](https://github.com/igio90/Dwarf) - A debugger built on top of PyQt5 and frida 
 
 
 <a name="videos" />

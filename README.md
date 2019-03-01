@@ -35,8 +35,8 @@ More info [here](http://www.frida.re/).
 * [frida-uiwebview](https://github.com/nowsecure/frida-uiwebview) - Inspect and manipulate UIWebView-hosted GUIs
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) - Inspect and manipulate UIKit-based GUIs
 * [frida-contrib](https://github.com/dweinstein/node-frida-contrib) - Frida utility-belt
-* [frida-load](https://github.com/frida/frida-load) - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile)) 
-* [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) - Create an outbound stream over a message transport. 
+* [frida-load](https://github.com/frida/frida-load) - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile))
+* [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) - Create an outbound stream over a message transport.
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 * [frida-push](https://github.com/AndroidTamer/frida-push) - Automatically `adb push` the correct frida-server matching your current frida installation.
@@ -87,13 +87,14 @@ More info [here](http://www.frida.re/).
 * [Fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
 * [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
 * [r2frida](https://github.com/nowsecure/r2frida) [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
+* [r2frida-wiki](https://github.com/enovella/r2frida-wiki) - Unofficial wiki that provides practical examples on how to use r2frida
 * [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 * [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection based using output from a `netstat` cmd.
 * [brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite and Frida
 * [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration for iOS and Android
 * [passionfruit](https://github.com/chaitin/passionfruit) - iOS App Analyzer with Web UI
 * [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
-* [Dwarf](https://github.com/igio90/Dwarf) - A debugger built on top of PyQt5 and frida 
+* [Dwarf](https://github.com/igio90/Dwarf) - A debugger built on top of PyQt5 and frida
 
 
 <a name="videos" />

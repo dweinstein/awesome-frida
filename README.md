@@ -96,6 +96,7 @@ More info [here](http://www.frida.re/).
 * [passionfruit](https://github.com/chaitin/passionfruit) - iOS App Analyzer with Web UI
 * [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [Dwarf](https://github.com/igio90/Dwarf) - A debugger built on top of PyQt5 and frida
+* [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
 
 
 <a name="videos" />

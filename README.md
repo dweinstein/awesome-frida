@@ -55,6 +55,7 @@ More info [here](http://www.frida.re/).
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
 - [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) - Repository including scripts for COM, .NET and WinRT for Windows
 - [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
+- [Arida](https://github.com/lateautumn4lin/arida) - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 
 <a name="talks-and-papers" />
 

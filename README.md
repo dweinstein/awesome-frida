@@ -13,13 +13,18 @@ More info [here](http://www.frida.re/).
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Libraries](#libraries)
-- [Projects](#projects)
-- [Talks & Papers](#talks-and-papers)
-- [Powered by Frida](#frida-powered-by)
-- [Videos](#videos)
-- [Blog posts](#blogs)
-- [Community](#community)
+- [Awesome Frida ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-frida-)
+  - [What is Frida?](#what-is-frida)
+  - [Table of Contents](#table-of-contents)
+  - [Libraries](#libraries)
+  - [Projects](#projects)
+  - [Talks & Papers](#talks--papers)
+  - [Powered by Frida](#powered-by-frida)
+  - [Videos](#videos)
+  - [Blog posts](#blog-posts)
+  - [Community](#community)
+  - [Contributions](#contributions)
+  - [Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -100,6 +105,7 @@ More info [here](http://www.frida.re/).
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
 * [bagbak](https://github.com/ChiChou/bagbak) - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a python tool based on [Frida](https://frida.re/docs/android/) for monitoring user-select APIs during the app execution.
 
 <a name="videos" />
 

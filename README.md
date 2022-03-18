@@ -40,6 +40,7 @@ More info [here](http://www.frida.re/).
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 * [frida-push](https://github.com/AndroidTamer/frida-push) - Automatically `adb push` the correct frida-server matching your current frida installation.
+* [frida-definitions-generator](https://git.sr.ht/~yotam/frida-definitions-generator) - Generate TypeScript definitions for a given APK file or unpacked apk directory.
 
 <a name="projects" />
 
@@ -55,6 +56,7 @@ More info [here](http://www.frida.re/).
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
 - [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) - Repository including scripts for COM, .NET and WinRT for Windows
 - [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
+- [easy-frida](https://github.com/tacesrever/easy-frida) - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 
 <a name="talks-and-papers" />
 
@@ -101,6 +103,7 @@ More info [here](http://www.frida.re/).
 * [bagbak](https://github.com/ChiChou/bagbak) - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [CatFrida](https://github.com/neil-wu/CatFrida) - A macOS app for inspecting a running iOS app. Building with frida-swift, CatFrida provide an awesome easy way to dive into an app.
+* [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.
 
 <a name="videos" />
 

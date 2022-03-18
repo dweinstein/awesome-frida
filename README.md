@@ -40,6 +40,7 @@ More info [here](http://www.frida.re/).
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 * [frida-push](https://github.com/AndroidTamer/frida-push) - Automatically `adb push` the correct frida-server matching your current frida installation.
+* [frida-definitions-generator](https://git.sr.ht/~yotam/frida-definitions-generator) - Generate TypeScript definitions for a given APK file or unpacked apk directory.
 
 <a name="projects" />
 
@@ -56,6 +57,7 @@ More info [here](http://www.frida.re/).
 - [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) - Repository including scripts for COM, .NET and WinRT for Windows
 - [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
 - [Arida](https://github.com/lateautumn4lin/arida) - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
+- [easy-frida](https://github.com/tacesrever/easy-frida) - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 
 <a name="talks-and-papers" />
 
@@ -101,6 +103,8 @@ More info [here](http://www.frida.re/).
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
 * [bagbak](https://github.com/ChiChou/bagbak) - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [CatFrida](https://github.com/neil-wu/CatFrida) - A macOS app for inspecting a running iOS app. Building with frida-swift, CatFrida provide an awesome easy way to dive into an app.
+* [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.
 
 <a name="videos" />
 
@@ -124,6 +128,10 @@ More info [here](http://www.frida.re/).
 * [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/), [part3](https://www.codemetrix.net/hacking-android-apps-with-frida-3/)
 * [OWASP iOS crackme tutorial: Solved with Frida](https://www.nowsecure.com/blog/2017/04/27/owasp-ios-crackme-tutorial-frida/)
 * Detecting Frida [poxyran](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/), [Bernhard Mueller](http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
+* [Maddie Stone, Google project Zero - Blackhat 2020 - Reversing the Root. Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://i.blackhat.com/USA-20/Wednesday/us-20-Stone-Reversing-The-Root-Identifying-The-Exploited-Vulnerability-In-0-Days-Used-In-The-Wild.pdf)
+* [Natalie Silvanovich, Google Project Zero - January 2022 - Zooming in on Zero-click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
+* [BlackBerry - April 2021 - Malware analysis with dynamic binary instrumentation frameworks](https://blogs.blackberry.com/en/2021/04/malware-analysis-with-dynamic-binary-instrumentation-frameworks)
+
 
 <a name="community" />
 

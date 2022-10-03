@@ -93,6 +93,7 @@ More info [here](http://www.frida.re/).
 * [frida-extract](https://github.com/OALabs/frida-extract) - Automatically extract and reconstruct a PE file that has been injected using the RunPE method
 * [r2frida](https://github.com/nowsecure/r2frida) [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 * [r2frida-wiki](https://github.com/enovella/r2frida-wiki) - Unofficial wiki that provides practical examples on how to use r2frida
+* [friTap](https://github.com/fkie-cad/friTap) - Decrypts and logs a process's SSL/TLS traffic on all major platforms. Beside this it intercepts the generation of encryption keys used by SSL/TLS and logs them as a SSLKEYLOGFILE.
 * [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 * [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection based using output from a `netstat` cmd.
 * [brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite and Frida

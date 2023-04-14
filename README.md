@@ -58,6 +58,7 @@ More info [here](http://www.frida.re/).
 - [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
 - [Arida](https://github.com/lateautumn4lin/arida) - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 - [easy-frida](https://github.com/tacesrever/easy-frida) - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
+- [RoboDroid](https://github.com/cybersecsi/robodroid) - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
 
 <a name="talks-and-papers" />
 

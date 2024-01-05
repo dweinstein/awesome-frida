@@ -133,6 +133,7 @@ More info [here](http://www.frida.re/).
 * [Maddie Stone, Google project Zero - Blackhat 2020 - Reversing the Root. Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://i.blackhat.com/USA-20/Wednesday/us-20-Stone-Reversing-The-Root-Identifying-The-Exploited-Vulnerability-In-0-Days-Used-In-The-Wild.pdf)
 * [Natalie Silvanovich, Google Project Zero - January 2022 - Zooming in on Zero-click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
 * [BlackBerry - April 2021 - Malware analysis with dynamic binary instrumentation frameworks](https://blogs.blackberry.com/en/2021/04/malware-analysis-with-dynamic-binary-instrumentation-frameworks)
+* [Advanced Frida Usage Part 1 – IOS Encryption Libraries](https://8ksec.io/advanced-frida-usage-part-1-ios-encryption-libraries-8ksec-blogs/)
 
 
 <a name="community" />

@@ -59,6 +59,7 @@ More info [here](http://www.frida.re/).
 - [Arida](https://github.com/lateautumn4lin/arida) - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 - [easy-frida](https://github.com/tacesrever/easy-frida) - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 - [RoboDroid](https://github.com/cybersecsi/robodroid) - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
+- [friman](https://github.com/thelicato/friman) - A Frida version management tool.
 
 <a name="talks-and-papers" />
 

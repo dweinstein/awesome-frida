@@ -59,6 +59,7 @@ More info [here](http://www.frida.re/).
 - [Arida](https://github.com/lateautumn4lin/arida) - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 - [easy-frida](https://github.com/tacesrever/easy-frida) - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 - [RoboDroid](https://github.com/cybersecsi/robodroid) - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
+- [rekit](https://github.com/b-erdem/rekit) - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
 
 <a name="talks-and-papers" />
 

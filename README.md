@@ -64,19 +64,19 @@ More info [here](http://www.frida.re/).
 <a name="talks-and-papers" />
 
 ## Talks & Papers
-* [OSDC 2015](http://act.osdc.no/osdc2015no/):
-  [Putting the open back into closed software](http://act.osdc.no/osdc2015no/talk/6165)
+* ~~[OSDC 2015](http://act.osdc.no/osdc2015no/)~~:
+  ~~[Putting the open back into closed software](http://act.osdc.no/osdc2015no/talk/6165)~~
   ([PDF](osdc-2015-putting-the-open-back-into-closed-software.pdf) · [Recording](https://youtu.be/tmpjftTHzH8))
-* [OSDC 2015](http://act.osdc.no/osdc2015no/):
-  [The engineering behind the reverse engineering](http://act.osdc.no/osdc2015no/talk/6195)
+* ~~[OSDC 2015](http://act.osdc.no/osdc2015no/)~~:
+  ~~[The engineering behind the reverse engineering](http://act.osdc.no/osdc2015no/talk/6195)~~
   ([PDF](osdc-2015-the-engineering-behind-the-reverse-engineering.pdf) · [Recording](https://youtu.be/uc1mbN9EJKQ))
 * [NLUUG 2015](https://www.nluug.nl/activiteiten/events/nj15/index.html):
   [Frida: Putting the open back into closed software](https://www.nluug.nl/activiteiten/events/nj15/abstracts/ab08.html)
   ([Slides](http://slides.com/oleavr/nluug-2015-frida-putting-the-open-back-into-closed-software)
   · [Demos](https://github.com/frida/frida-presentations/tree/master/NLUUG2015)
   · [Recording](https://youtu.be/3lo1Y2oKkE4))
-* [ZeroNights 2015](http://2015.zeronights.org/):
-  [Cross-platform reversing with Frida](http://2015.zeronights.org/workshops.html)
+* ~~[ZeroNights 2015](http://2015.zeronights.org/)~~:
+  ~~[Cross-platform reversing with Frida](http://2015.zeronights.org/workshops.html)~~
   ([PDF](zeronights-2015-cross-platform-reversing-with-frida.pdf)
   · [Demos](https://github.com/frida/frida-presentations/tree/master/ZeroNights2015))
 * [r2con 2016 - r2frida](http://rada.re/con/) ([PDF](https://github.com/radareorg/r2con/raw/master/2016/talks/08-r2frida/r2frida.pdf) · [Recording](https://www.youtube.com/watch?v=ivCucqeVeZI))
@@ -128,7 +128,7 @@ More info [here](http://www.frida.re/).
 * [iOS 9 Reverse Engineering with Javascript](https://www.nowsecure.com/blog/2015/11/16/ios-9-reverse-engineering-with-javascript/)
 * [iOS Instrumentation without Jailbreak](https://www.nowsecure.com/blog/2015/11/23/ios-instrumentation-without-jailbreak/)
 * [Introduction to Fridump](http://pentestcorner.com/introduction-to-fridump/) - Fridump is an open source memory dumper tool
-* [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/), [part3](https://www.codemetrix.net/hacking-android-apps-with-frida-3/)
+* ~~[Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/), [part3](https://www.codemetrix.net/hacking-android-apps-with-frida-3/)~~
 * [OWASP iOS crackme tutorial: Solved with Frida](https://www.nowsecure.com/blog/2017/04/27/owasp-ios-crackme-tutorial-frida/)
 * Detecting Frida [poxyran](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/), [Bernhard Mueller](http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
 * [Maddie Stone, Google project Zero - Blackhat 2020 - Reversing the Root. Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://i.blackhat.com/USA-20/Wednesday/us-20-Stone-Reversing-The-Root-Identifying-The-Exploited-Vulnerability-In-0-Days-Used-In-The-Wild.pdf)

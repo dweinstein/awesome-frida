@@ -108,6 +108,7 @@ More info [here](http://www.frida.re/).
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [CatFrida](https://github.com/neil-wu/CatFrida) - A macOS app for inspecting a running iOS app. Building with frida-swift, CatFrida provide an awesome easy way to dive into an app.
 * [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.
+* [Mobix](https://github.com/blackfoxxx/Mobix) - Authorized Android pentest lab built around a Frida SSL-pinning/root-detection bypass chain: live mitmproxy traffic capture, a web dashboard, and a 36-tool MCP server so a Claude Code agent can scan an app, review its traffic, and write evidence-backed findings itself.
 
 <a name="videos" />
 

@@ -108,6 +108,7 @@ More info [here](http://www.frida.re/).
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [CatFrida](https://github.com/neil-wu/CatFrida) - A macOS app for inspecting a running iOS app. Building with frida-swift, CatFrida provide an awesome easy way to dive into an app.
 * [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.
+* [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) - GUI App Store / TestFlight IPA downloader and FairPlay decryptor for macOS and iOS. Complements Frida dumpers (bagbak, frida-ios-dump) by downloading the store IPA and decrypting it outside a live process, and can recover a FairPlay model on supported Apple Silicon Macs without a jailbreak.
 
 <a name="videos" />
 
